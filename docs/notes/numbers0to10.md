@@ -5,6 +5,7 @@ The basic Chinese numerals from zero to ten are the following. For simple counti
 | Chinese | Pinyin | Meaning          |
 | ------- | ------ | ---------------- |
 | 零       | líng   | zero            |
+| 〇       | líng   | zero            | 
 | 一       | yī     | one             |
 | 二       | èr     | two             |
 | 两       | liǎng  | two             |
@@ -28,7 +29,7 @@ However, when used to count something, its tone often changes depending on what 
 
 !!! example "Before a fourth-tone syllable"
     一个  
-    yí ge  
+    yí gè  
     one; a  
 
     Before a fourth-tone syllable, **一** is usually pronounced **yí**.
@@ -57,50 +58,56 @@ However, when used to count something, its tone often changes depending on what 
     
 ## 二 is the numeral, but 两 is common elsewhere
 
-For the number “two,” the basic numeral is **二**.
+For the number “two,” the basic numeral is **二**. It is used in counting sequences such **一, 二, 三** or when spelling numbers. 
 
-* **一, 二, 三**
-* one, two, three
+The syllable **两** is often used before measure words and nouns. 
 
-But learners quickly meet **两**, which is often used before measure words and nouns:
+!!! example "Counting in sequence"
+    一、二、三、四。  
+    Yī, èr, sān, sì.  
+    One, two, three, four.  
 
-* **两个** = two of something
-* not usually **二个** in ordinary speech
+    In a counting sequence, use **二**, not **两**.
 
-For this note, the important boundary is:
+!!! example "Reading a phone number"
+    我的号码里有两个二。  
+    Wǒ de hàomǎ lǐ yǒu liǎng gè èr.  
+    My number has two 2s in it.  
 
-* the numeral in the basic list is **二**
-* do not replace the entry for “2” with **两**
+    The digit itself is read **二**, but the counted item is **两个**.
 
-!!! warning
-    **两** is not the basic numeral symbol for “2” in the counting sequence from zero to ten. The basic numeral is **二**.
+!!! example "Reading a room number"
+    她住在二零二房间。  
+    Tā zhù zài èr líng èr fángjiān.  
+    She lives in room 202.  
 
-* **二** = the numeral two
-* **两** = often used before measure words and nouns
+    When reading digits one by one, use **二**.
 
-!!! warning
-    Treating **两** as the basic numeral “2” in the counting sequence. For counting from zero to ten, use **二**.
+!!! example "Counting people"
+    两个人来了。  
+    Liǎng gè rén lái le.  
+    Two people came.  
 
-Minimal contrast:
+    Before the measure word **个**, ordinary Mandarin uses **两**, not usually **二**.
 
-* **二、三、四**
-  two, three, four
-* **两个人**
-  two people
+!!! example "Counting books"
+    我买了两本书。  
+    Wǒ mǎi le liǎng běn shū.  
+    I bought two books.  
 
-For the numeral list from zero to ten, the correct item is **二**.
+    Before the measure word **本**, use **两**.
 
+!!! example "Counting cups"
+    桌上有两杯茶。  
+    Zhuō shàng yǒu liǎng bēi chá.  
+    There are two cups of tea on the table.  
+
+    Before the measure word **杯**, use **两**.
+    
 ## Zero is slightly different in use
 
-**零** is “zero,” but it also appears inside larger numbers, decimals, temperatures, and formal number reading.
+**零** is the standard written numeral for “zero,” but it also appears inside larger numbers, decimals, temperatures, and formal number reading.
 
-At the 0–10 stage, the practical point is simply:
-
-* **零** is the standard written numeral for zero
-
-Both can represent zero in some contexts.
-
-* **零** is the standard general numeral word
 * **〇** is often seen in dates, codes, or stylized writing
 
 ## Vocabulary
