@@ -88,3 +88,17 @@ So:
     This is one of the first important distinctions learners meet.
     ```
 
+## 十 is both a numeral and a structural base for larger numbers
+
+**十** means “ten.”
+
+It is also the base used to build numbers like:
+
+* 十一 = eleven
+* 十二 = twelve
+* 二十 = twenty
+
+For this note, only the standalone value matters:
+
+* **十** = ten
+

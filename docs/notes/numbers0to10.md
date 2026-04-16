@@ -22,17 +22,39 @@ The basic Chinese numerals from zero to ten are the following. For simple counti
 
 ## Tone sandhi for 一 
 
-In isolation, **一** is pronounced **yī**. In actual speech, its tone often changes depending on what follows. For a beginner test note, the useful point is simple:
+In isolation, **一** is pronounced **yī**. For example, when spelling phone numbers. 
 
-* dictionary form: **yī**
-* in real phrases, pronunciation often shifts
+However, when used to count something, its tone often changes depending on what follows. 
 
-!!! note
-    For isolated counting practice, use **yī**. Tone sandhi matters later, but it does not change the written form.
+!!! example "Before a fourth-tone syllable"
+    一个  
+    yí ge  
+    one; a  
 
-!!! warning
-    Assuming **一** is always pronounced **yī** in connected speech. Its citation form is **yī**, but actual pronunciation changes in many common combinations.
+    Before a fourth-tone syllable, **一** is usually pronounced **yí**.
 
+!!! example "Before a first-, second-, or third-tone syllable"
+    一天  
+    yì tiān  
+    one day  
+
+    一年  
+    yì nián  
+    one year  
+
+    一本  
+    yì běn  
+    one volume; one copy  
+
+    Before a first-, second-, or third-tone syllable, **一** is usually pronounced **yì**.
+
+!!! example "In number reading"
+    电话号码里有一个一。  
+    Diànhuà hàomǎ lǐ yǒu yí ge yī.  
+    There is a one in the phone number.  
+
+    Here **一** in **一个** changes tone, but the digit **一** itself is still read **yī**.
+    
 ## 二 is the numeral, but 两 is common elsewhere
 
 For the number “two,” the basic numeral is **二**.
@@ -67,20 +89,6 @@ Minimal contrast:
   two people
 
 For the numeral list from zero to ten, the correct item is **二**.
-
-## 十 is both a numeral and a structural base for larger numbers
-
-**十** means “ten.”
-
-It is also the base used to build numbers like:
-
-* 十一 = eleven
-* 十二 = twelve
-* 二十 = twenty
-
-For this note, only the standalone value matters:
-
-* **十** = ten
 
 ## Zero is slightly different in use
 

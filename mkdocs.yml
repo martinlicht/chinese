@@ -1,13 +1,22 @@
 
 site_name: Chinese Learning Notes
-site_url: https://USERNAME.github.io/REPO/
+site_url: https://martinlicht.github.io/chinese/
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: blue grey
+      accent: lime
 markdown_extensions:
   - admonition
   - tables
 nav:
   - Home: index.md
+  - Numbers:
+      - 0 to 10: numbers/numbers0to10.md
   - Grammar:
       - 差点儿 / 差一点儿: grammar/chadianr.md
 
