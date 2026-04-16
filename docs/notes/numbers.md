@@ -59,7 +59,7 @@ In isolation, **一** is pronounced **yī**. In actual speech, its tone often ch
 This is a pronunciation issue, not a different word.
 
 !!! note
-For isolated counting practice, use **yī**. Tone sandhi matters later, but it does not change the written form.
+    For isolated counting practice, use **yī**. Tone sandhi matters later, but it does not change the written form.
 
 ### 3. 二 is the numeral, but 两 is common elsewhere
 
@@ -79,7 +79,7 @@ For this note, the important boundary is:
 * do not replace the entry for “2” with **两**
 
 !!! warning
-**两** is not the basic numeral symbol for “2” in the counting sequence from zero to ten. The basic numeral is **二**.
+    **两** is not the basic numeral symbol for “2” in the counting sequence from zero to ten. The basic numeral is **二**.
 
 ### 4. 十 is both a numeral and a structural base for larger numbers
 
@@ -106,76 +106,76 @@ At the 0–10 stage, the practical point is simply:
 ## Examples
 
 !!! example "Example 1"
-零、一、二、三。
-Líng, yī, èr, sān.
-Zero, one, two, three.
+    零、一、二、三。
+    Líng, yī, èr, sān.
+    Zero, one, two, three.
 
-```
-Basic counting sequence.
-```
+    ```
+    Basic counting sequence.
+    ```
 
 !!! example "Example 2"
-四、五、六、七。
-Sì, wǔ, liù, qī.
-Four, five, six, seven.
+    四、五、六、七。
+    Sì, wǔ, liù, qī.
+    Four, five, six, seven.
 
-```
-Another segment of the counting sequence.
-```
+    ```
+    Another segment of the counting sequence.
+    ```
 
 !!! example "Example 3"
-八、九、十。
-Bā, jiǔ, shí.
-Eight, nine, ten.
+    八、九、十。
+    Bā, jiǔ, shí.
+    Eight, nine, ten.
 
-```
-The final part of the basic 0–10 set.
-```
+    ```
+    The final part of the basic 0–10 set.
+    ```
 
 !!! example "Example 4"
-这个号码里有两个零。
-Zhège hàomǎ lǐ yǒu liǎng gè líng.
-This number has two zeros in it.
+    这个号码里有两个零。
+    Zhège hàomǎ lǐ yǒu liǎng gè líng.
+    This number has two zeros in it.
 
-```
-**零** is the numeral zero. **两个** uses **两**, not **二**, before the measure word **个**.
-```
+    ```
+    **零** is the numeral zero. **两个** uses **两**, not **二**, before the measure word **个**.
+    ```
 
 !!! example "Example 5"
-一加一等于二。
-Yī jiā yī děngyú èr.
-One plus one equals two.
+    一加一等于二。
+    Yī jiā yī děngyú èr.
+    One plus one equals two.
 
-```
-In mathematical reading, **二** is the normal numeral form.
-```
+    ```
+    In mathematical reading, **二** is the normal numeral form.
+    ```
 
 !!! example "Example 6"
-十是一个很重要的数字。
-Shí shì yí ge hěn zhòngyào de shùzì.
-Ten is a very important number.
+    十是一个很重要的数字。
+    Shí shì yí ge hěn zhòngyào de shùzì.
+    Ten is a very important number.
 
-```
-**十** is both the numeral ten and the basis for many larger numbers.
-```
+    ```
+    **十** is both the numeral ten and the basis for many larger numbers.
+    ```
 
 !!! example "Example 7"
-今天我们先学一到十。
-Jīntiān wǒmen xiān xué yī dào shí.
-Today we’ll first learn one to ten.
+    今天我们先学一到十。
+    Jīntiān wǒmen xiān xué yī dào shí.
+    Today we’ll first learn one to ten.
 
-```
-**一到十** is the standard way to say “one to ten.”
-```
+    ```
+    **一到十** is the standard way to say “one to ten.”
+    ```
 
 !!! example "Example 8"
-“二”和“两”不完全一样。
-“Èr” hé “liǎng” bù wánquán yíyàng.
-“Èr” and “liǎng” are not completely the same.
+    “二”和“两”不完全一样。
+    “Èr” hé “liǎng” bù wánquán yíyàng.
+    “Èr” and “liǎng” are not completely the same.
 
-```
-This is one of the first important distinctions learners meet.
-```
+    ```
+    This is one of the first important distinctions learners meet.
+    ```
 
 ## Common errors / pitfalls
 
@@ -254,10 +254,10 @@ So:
 ## Notes
 
 !!! tip
-For a first-pass memorization drill, practice them in fixed order: **零 一 二 三 四 五 六 七 八 九 十**.
+    For a first-pass memorization drill, practice them in fixed order: **零 一 二 三 四 五 六 七 八 九 十**.
 
 !!! note
-In real usage, numerals are read differently depending on context: counting, math, phone numbers, room numbers, years, and prices can sound slightly different in rhythm or usage. For 0–10 recognition, the written forms above are the essential core.
+    In real usage, numerals are read differently depending on context: counting, math, phone numbers, room numbers, years, and prices can sound slightly different in rhythm or usage. For 0–10 recognition, the written forms above are the essential core.
 
 !!! note
-For testing purposes, the single most useful distinction to remember is: **the numeral is 二, but many everyday noun phrases use 两**.
+    For testing purposes, the single most useful distinction to remember is: **the numeral is 二, but many everyday noun phrases use 两**.
