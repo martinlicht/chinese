@@ -1,0 +1,13 @@
+
+site_name: Chinese Learning Notes
+site_url: https://USERNAME.github.io/REPO/
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - tables
+nav:
+  - Home: index.md
+  - Grammar:
+      - 差点儿 / 差一点儿: grammar/chadianr.md
+
