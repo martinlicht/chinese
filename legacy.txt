@@ -1,0 +1,90 @@
+## Summary
+
+* The basic Chinese numerals from zero to ten are: **零, 一, 二, 三, 四, 五, 六, 七, 八, 九, 十**.
+* For counting, **一 to 十** are straightforward and highly regular.
+* The main point learners must watch early is **二**: in many contexts above ten or before measure words, **两** is often used instead, but for the numbers **0–10 themselves**, the basic form is **二**.
+* **零** is used for the number zero and also inside larger numbers, but here it is best learned simply as “zero.”
+* Handwriting and recognition matter, especially for **四, 五, 六, 七, 九**.
+* These numerals are used constantly in counting, dates, prices, phone numbers, times, and basic compounds.
+
+## Summary
+
+* The basic Chinese numerals from zero to ten are: **零, 一, 二, 三, 四, 五, 六, 七, 八, 九, 十**.
+* For counting, **一 to 十** are straightforward and highly regular.
+* The main point learners must watch early is **二**: in many contexts above ten or before measure words, **两** is often used instead, but for the numbers **0–10 themselves**, the basic form is **二**.
+* **零** is used for the number zero and also inside larger numbers, but here it is best learned simply as “zero.”
+* Handwriting and recognition matter, especially for **四, 五, 六, 七, 九**.
+* These numerals are used constantly in counting, dates, prices, phone numbers, times, and basic compounds.
+
+### 3. 十 vs 一十
+
+For the number ten itself:
+
+* **十** is correct
+* **一十** is not the normal standard form for “10”
+
+So:
+
+* 10 = **十**
+* 11 = **十一**
+* not usually **一十一** in standard Mandarin
+
+| 号码      | hàomǎ  | number; code    | Used for phone numbers, codes, etc.                     |
+| 数字      | shùzì  | numeral; number | General term                                            |
+
+## Notes
+
+!!! note
+    In real usage, numerals are read differently depending on context: counting, math, phone numbers, room numbers, years, and prices can sound slightly different in rhythm or usage. For 0–10 recognition, the written forms above are the essential core.
+
+!!! note
+    For testing purposes, the single most useful distinction to remember is: **the numeral is 二, but many everyday noun phrases use 两**.
+
+
+        For a foundational note, learn **零** first.
+
+!!! example "Example 4"
+    这个号码里有两个零。
+    Zhège hàomǎ lǐ yǒu liǎng gè líng.
+    This number has two zeros in it.
+
+    ```
+    **零** is the numeral zero. **两个** uses **两**, not **二**, before the measure word **个**.
+    ```
+
+!!! example "Example 5"
+    一加一等于二。
+    Yī jiā yī děngyú èr.
+    One plus one equals two.
+
+    ```
+    In mathematical reading, **二** is the normal numeral form.
+    ```
+
+!!! example "Example 6"
+    十是一个很重要的数字。
+    Shí shì yí ge hěn zhòngyào de shùzì.
+    Ten is a very important number.
+
+    ```
+    **十** is both the numeral ten and the basis for many larger numbers.
+    ```
+
+!!! example "Example 7"
+    今天我们先学一到十。
+    Jīntiān wǒmen xiān xué yī dào shí.
+    Today we’ll first learn one to ten.
+
+    ```
+    **一到十** is the standard way to say “one to ten.”
+    ```
+
+!!! example "Example 8"
+    “二”和“两”不完全一样。
+    “Èr” hé “liǎng” bù wánquán yíyàng.
+    “Èr” and “liǎng” are not completely the same.
+
+    ```
+    This is one of the first important distinctions learners meet.
+    ```
+
