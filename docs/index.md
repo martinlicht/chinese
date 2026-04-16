@@ -2,7 +2,7 @@
 
 These are notes for teaching yourself Chinese, written in English.
 
-This is material is mostly AI-generated and covers basis topics. I am setting primarily for myself, but I hope other people may find it useful as well.
+This is material is mostly AI-generated and covers basic topics. I am setting it up primarily for myself, but I hope other people may find it useful as well.
 
 The HTML is automatically generated from Markdown files.
 
@@ -23,9 +23,9 @@ The HTML is automatically generated from Markdown files.
 ## Numbers 
 
 - [Numbers 0 to 10](notes/numbers0to10.md)
-- [Numbers 0 to 10](notes/numbers1to99.md)
-- [Numbers 0 to 10](notes/three_digit_numbers.md)
-- [Numbers 0 to 10](notes/four_digit_numbers.md)
+- [Numbers 1 to 99](notes/numbers1to99.md)
+- [Three-digit numbers](notes/three_digit_numbers.md)
+- [Four-digit numbers](notes/four_digit_numbers.md)
 
 
 ## Other 
