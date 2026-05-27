@@ -26,6 +26,7 @@ The HTML is automatically generated from Markdown files.
 - [Numbers 1 to 99](notes/numbers1to99.md)
 - [Three-digit numbers](notes/three_digit_numbers.md)
 - [Four-digit numbers](notes/four_digit_numbers.md)
+- [Chinese phone numbers](notes/chinese_phone_numbers.md)
 
 
 ## Other 
