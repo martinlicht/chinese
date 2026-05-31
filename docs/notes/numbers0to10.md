@@ -28,29 +28,29 @@ In isolation, **一** is pronounced **yī**. For example, when spelling phone nu
 However, when used to count something, its tone often changes depending on what follows. 
 
 !!! example "Before a fourth-tone syllable"
-    一个  
+    {{zh:一个}}  
     yí gè  
-    one; a  
+    one; a
 
     Before a fourth-tone syllable, **一** is usually pronounced **yí**.
 
 !!! example "Before a first-, second-, or third-tone syllable"
-    一天  
+    {{zh:一天}}  
     yì tiān  
     one day  
 
-    一年  
+    {{zh:一年}}  
     yì nián  
     one year  
 
-    一本  
-    yì běn  
-    one volume; one copy  
+    {{zh:一本书}}  
+    yì běn shū
+    one book
 
     Before a first-, second-, or third-tone syllable, **一** is usually pronounced **yì**.
 
 !!! example "In number reading"
-    电话号码里有一个一。  
+    {{zh:电话号码里有一个一。}}  
     Diànhuà hàomǎ lǐ yǒu yí ge yī.  
     There is a one in the phone number.  
 
@@ -63,42 +63,42 @@ For the number “two,” the basic numeral is **二**. It is used in counting s
 The syllable **两** is often used before measure words and nouns. 
 
 !!! example "Counting in sequence"
-    一、二、三、四。  
+    {{zh:一、二、三、四。}}  
     Yī, èr, sān, sì.  
     One, two, three, four.  
 
     In a counting sequence, use **二**, not **两**.
 
 !!! example "Reading a phone number"
-    我的号码里有两个二。  
+    {{zh:我的号码里有两个二。}}  
     Wǒ de hàomǎ lǐ yǒu liǎng gè èr.  
     My number has two 2s in it.  
 
     The digit itself is read **二**, but the counted item is **两个**.
 
 !!! example "Reading a room number"
-    她住在二零二房间。  
+    {{zh:她住在二零二房间。}}  
     Tā zhù zài èr líng èr fángjiān.  
     She lives in room 202.  
 
     When reading digits one by one, use **二**.
 
 !!! example "Counting people"
-    两个人来了。  
+    {{zh:两个人来了。}}  
     Liǎng gè rén lái le.  
     Two people came.  
 
     Before the measure word **个**, ordinary Mandarin uses **两**, not usually **二**.
 
 !!! example "Counting books"
-    我买了两本书。  
+    {{zh:我买了两本书。}}  
     Wǒ mǎi le liǎng běn shū.  
     I bought two books.  
 
     Before the measure word **本**, use **两**.
 
 !!! example "Counting cups"
-    桌上有两杯茶。  
+    {{zh:桌上有两杯茶。}}  
     Zhuō shàng yǒu liǎng bēi chá.  
     There are two cups of tea on the table.  
 

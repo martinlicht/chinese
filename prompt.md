@@ -89,7 +89,7 @@ Each example block should normally contain:
 1. Chinese sentence
 2. pinyin
 3. natural English translation
-4. short explanation when needed
+4. short explanation (optional, only when needed or helpful)
 
 Format example blocks exactly like this:
 
