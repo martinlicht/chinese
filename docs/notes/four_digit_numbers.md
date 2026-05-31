@@ -31,7 +31,7 @@ Canonical patterns:
 
 ## Explanation
 
-### 1. The basic structure
+### 1. The basic structure, without zero as a digit
 
 Four-digit numbers use **千** for “thousand.”
 

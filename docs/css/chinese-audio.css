@@ -1,0 +1,47 @@
+
+.zh-sample {
+  white-space: nowrap;
+}
+
+.zh-play-oldversion {
+  margin-left: 0.25em;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.9em;
+}
+
+/*  margin-left controls distance to the text */
+
+.zh-play {
+  margin-left: 0.45em;
+  width: 1.35em;
+  height: 1.35em;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  /*vertical-align: -0.15em;*/
+  vertical-align: middle;
+
+  border: 1px solid currentColor;
+  border-radius: 0.25em; /* square with slightly rounded corners */
+
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  padding: 0;
+}
+
+/*  it is not clear what happens here */
+.zh-play::before {
+  content: "▶";
+  font-size: 0.7em;
+  line-height: 1;
+  transform: translateX(0.05em);
+}
+
+.zh-play:hover {
+  background: color-mix(in srgb, currentColor 10%, transparent);
+}

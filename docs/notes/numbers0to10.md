@@ -112,19 +112,19 @@ The syllable **两** is often used before measure words and nouns.
 
 ## Vocabulary
 
-| Chinese | Pinyin | Meaning         | Notes                                                   |
-| ------- | ------ | --------------- | ------------------------------------------------------- |
-| 零       | líng   | zero            | Standard numeral for 0                                  |
-| 〇       | líng   | zero            | Other numeral for 0                                     |
-| 一       | yī     | one             | Tone changes often in connected speech                  |
-| 二       | èr     | two             | Basic numeral form                                      |
-| 两       | liǎng  | two             | Common before measure words; not the counting form here |
-| 三       | sān    | three           | Regular numeral                                         |
-| 四       | sì     | four            | Watch the falling tone                                  |
-| 五       | wǔ     | five            | Commonly confused in pronunciation by beginners         |
-| 六       | liù    | six             | Common basic numeral                                    |
-| 七       | qī     | seven           | Common basic numeral                                    |
-| 八       | bā     | eight           | Common basic numeral                                    |
-| 九       | jiǔ    | nine            | Common basic numeral                                    |
-| 十       | shí    | ten             | Also the base for numbers above 10                      |
+| Chinese         | Pinyin | Meaning         | Notes                                                   |
+| --------------- | ------ | --------------- | ------------------------------------------------------- |
+| {{zh:零}}       | líng   | zero            | Standard numeral for 0                                  |
+| {{zh:〇}}       | líng   | zero            | Other numeral for 0                                     |
+| {{zh:一}}       | yī     | one             | Tone changes often in connected speech                  |
+| {{zh:二}}       | èr     | two             | Basic numeral form                                      |
+| {{zh:两}}       | liǎng  | two             | Common before measure words; not the counting form here |
+| {{zh:三}}       | sān    | three           | Regular numeral                                         |
+| {{zh:四}}       | sì     | four            | Watch the falling tone                                  |
+| {{zh:五}}       | wǔ     | five            | Commonly confused in pronunciation by beginners         |
+| {{zh:六}}       | liù    | six             | Common basic numeral                                    |
+| {{zh:七}}       | qī     | seven           | Common basic numeral                                    |
+| {{zh:八}}       | bā     | eight           | Common basic numeral                                    |
+| {{zh:九}}       | jiǔ    | nine            | Common basic numeral                                    |
+| {{zh:十}}       | shí    | ten             | Also the base for numbers above 10                      |
 

@@ -23,3 +23,13 @@ nav:
   - Grammar:
       - 差点儿 / 差一点儿: notes/chadianr.md
 
+
+
+hooks:
+  - hooks/chinese.py
+
+extra_javascript:
+  - js/chinese-audio.js
+
+extra_css:
+  - css/chinese-audio.css
